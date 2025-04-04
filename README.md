@@ -15,16 +15,4 @@
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eaomarb&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eaomarb&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eaomarb&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eaomarb&theme=aura_dark&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=eaomarb&icon=5&color=4)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
